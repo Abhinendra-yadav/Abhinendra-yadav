@@ -38,7 +38,7 @@ I am a passionate **Computer Science & Engineering Student** dedicated to buildi
 <p align="left">
   <a href="https://github.com/Abhinendra-yadav" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Abhinendra-yadav" /></a>
   <a href="https://leetcode.com/u/abhinendra_yadav/" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://www.hackerrank.com/profile/abhinendra_y2023" target="blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" /></a>
+  <a href="https://www.hackerrank.com/profile/23SCSE1012125" target="blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" /></a>
 </p>
 
 ---
