@@ -33,19 +33,21 @@ I am a passionate **Computer Science & Engineering Student** dedicated to buildi
 
 ---
 
-### 🔗 Connect with Me
+### 🔗 Connect & Coding Profiles
 
 <p align="left">
-  <a href="https://github.com/Abhinendra-yadav" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Abhinendra-yadav" /></a>
+  <a href="https://github.com/Abhinendra-yadav" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://leetcode.com/u/abhinendra_yadav/" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://www.hackerrank.com/profile/23SCSE1012125" target="blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" /></a>
+  <a href="https://www.geeksforgeeks.org/profile/yadavabhint1y9" target="blank"><img src="https://img.shields.io/badge/-GeeksforGeeks-298D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+  <a href="https://codeforces.com/profile/yadavabhinendra" target="blank"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://www.hackerrank.com/profile/abhinendra_y2023" target="blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" /></a>
 </p>
 
 ---
 
 ### 🏆 Coding Achievements
-- Solved 100+ problems on various platforms.
-- Ranked among top 150 in iOS Bootcamp.
+- Solved 500+ problems across LeetCode, GFG, and Codeforces.
+- Active participant in Competitive Programming contests.
 - Certified in Java Full Stack & SQL (Oracle).
 
 ---
