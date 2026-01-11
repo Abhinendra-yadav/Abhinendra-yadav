@@ -47,8 +47,16 @@ I am a passionate **Computer Science & Engineering Student** dedicated to buildi
 
 ### 🏆 Coding Achievements
 - Solved 100+ problems across LeetCode, GFG, and Codeforces.
-- Active participant in Competitive Programming contests.
-- Certified in Java Full Stack & SQL (Oracle).
+---
+
+### 🏆 Coding Achievements & Certifications
+- **iOS Bootcamp:** Ranked among the **Top 150** out of **3,100+ participants**.
+- **Problem Solving:** Solved **100+ problems** across LeetCode, GFG, and Codeforces.
+- **Certifications:** - Java Full Stack Developer (EDUSKILLS)
+  - Database Programming with SQL (ORACLE)
+  - Web Development (CODESOFT)
+
+---
 
 ---
 *“Keep coding, keep learning!”*
