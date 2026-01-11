@@ -46,7 +46,7 @@ I am a passionate **Computer Science & Engineering Student** dedicated to buildi
 ---
 
 ### 🏆 Coding Achievements
-- Solved 500+ problems across LeetCode, GFG, and Codeforces.
+- Solved 100+ problems across LeetCode, GFG, and Codeforces.
 - Active participant in Competitive Programming contests.
 - Certified in Java Full Stack & SQL (Oracle).
 
